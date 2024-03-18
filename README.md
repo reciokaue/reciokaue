@@ -1,7 +1,4 @@
-
-
-#  Kaue Recio, 18y - Front-end Developer 💻
-
+#  Kaue Recio, 19y - Full-stack Developer 💻
 
 ### About
 
@@ -24,7 +21,7 @@
  
  
 ### Contact
-*  :telephone_receiver: +55 (15) 99603-0267 
+*  :telephone_receiver: +55 (15) 99765-0436 
 
 ### Find me
 <p>
@@ -34,7 +31,7 @@
 <a  href="https://mail.google.com/mail/kaue.recio2@gmail.com">
 	<img  alt="Email"  src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link" />
 	</a>
-<a  href="https://api.whatsapp.com/send?phone=5515996030267">
+<a  href="https://api.whatsapp.com/send?phone=5515997650436">
 	<img  alt="Email"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
