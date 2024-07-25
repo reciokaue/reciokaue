@@ -1,4 +1,4 @@
-#  Kaue Recio, 19y - Full-stack Developer 💻
+#  Kaue Recio - Full-stack Developer 💻
 
 ### About
 
